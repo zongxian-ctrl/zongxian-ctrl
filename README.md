@@ -2,10 +2,6 @@
 
 My name is Zong Xian and I'm currently an undergraduate pursuing Computer Engineering at National University of Singapore. 
 
-## &#x1f4c8; GitHub Stats
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=zongxian-ctrl&theme=<THEME_NAME>" />
-
 [![Linkedin: zongxian](https://img.shields.io/badge/zongxian-blue?style=flat&logo=Linkedin&logoColor=white)][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/zongxiann/
