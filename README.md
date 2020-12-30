@@ -6,7 +6,7 @@ My name is Zong Xian and I'm currently an undergraduate pursuing Computer Engine
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=zongxian-ctrl&theme=<THEME_NAME>" />
 
-[![Linkedin: shmulvad](https://img.shields.io/badge/shmulvad-blue?style=flat&logo=Linkedin&logoColor=white)][linkedin]
+[![Linkedin: zongxian](https://img.shields.io/badge/shmulvad-blue?style=flat&logo=Linkedin&logoColor=white)][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/zongxiann/
 <!--
